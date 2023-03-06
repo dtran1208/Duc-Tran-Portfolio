@@ -41,9 +41,8 @@ body{
  }
  
  #avartar {
-     max-width: 40%;
+     width: 40%;
      height: 300px;
-     object-fit: cover;
      float: left;
      border: 1px  solid black;
      
